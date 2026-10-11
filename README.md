@@ -82,5 +82,5 @@ Responder a las siguientes preguntas de negocio:
 
 ```
 ├── README.md
-└── ConnectaTel_analisis.ipynb
+└── S7 Version-Estudiante-Project-ConnectaTel.ipynb
 ```
