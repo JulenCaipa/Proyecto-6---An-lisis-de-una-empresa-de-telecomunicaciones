@@ -63,7 +63,7 @@ Responder a las siguientes preguntas de negocio:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL-de-este-repositorio>
+   git clone https://github.com/JulenCaipa/Proyecto-6---An-lisis-de-una-empresa-de-telecomunicaciones.git
    ```
 2. Instala las dependencias:
    ```bash
